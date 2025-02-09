@@ -1,11 +1,8 @@
-# Convenient way to swap, send, borrow and lend crypto. 
+# Convenient way to research, swap, send, borrow and lend crypto with just your voice!
 
-Expose builds slick UX, a CLI, an App and more. 
+Expose has built a CLI and a Web/Mobile app, where you can make onchain actions using voice, supporting 2500+ chains, a native crosschain experience, live blockchain data queries, and a personalised AI agent at the heart of the UX.
 
-We're gonna make crypto great again by delivering the most superior UX using cutting edge AI models, and expert design skills. 
-
-<img width="100%" alt="Screenshot 2024-12-13 at 12 19 33 am" src="https://github.com/user-attachments/assets/e0e19bb5-b3a7-42bc-b1f1-332d5dea8255" />
-
+<img width="100%" alt="Screenshot 2025-02-09 at 6 16 55 pm" src="https://github.com/user-attachments/assets/9d6e39c9-6d1e-4ed3-a7a3-a586fcf4a04c" />
 
 <!--
 
